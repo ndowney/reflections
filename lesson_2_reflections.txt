@@ -1,0 +1,10 @@
+-What happens when you initialize a repository? Why do you need to do it?
+
+Git creates all the behind the scenes stuff needed for the repository, and makes it possible to add files to be tracked through commits.  This does not exist in every directory, so we have to setup git on those directories to be tracked.
+
+-How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is intermediate between the two, it allows you to only commit certain files from a directory, but also allows you to add them one at a time so you can be sure a single commit contains everything it should.  It also allows you to double check that you are commiting what you want before you pull the trigger.  This behavior is valuable because it helps prevent mistakes.
+
+
+

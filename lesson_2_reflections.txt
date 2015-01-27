@@ -14,4 +14,9 @@ By looking at the files in the staging area and using git diff --staged you can 
 
 If I were to add changes to a project that were not yet fully functional, i would want to keep those changes separate from the main branch so that i do not break functionality for other users.  Branches make it possible to do this.  Also, I could implement a quick an dirty change in the main branch, but in the meanwhile make a better fix on a branch to replace my earlier hasty code.
 
+-How do the diagrams help you visualize the branch structure?
+
+By showing directly which commits are related to each other and which are not.
+
+
 

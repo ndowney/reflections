@@ -18,5 +18,12 @@ If I were to add changes to a project that were not yet fully functional, i woul
 
 By showing directly which commits are related to each other and which are not.
 
+-What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Features from different branches get combined into a single branch wih all the features of all merged branches.  The diagram shows which commit worked on what to show exactly which changes were made to achieve a particular result.
+
+-What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Auto merging saves time, a lot of time, since it can automatically combine a lot of changes that would be tedious to analyse manually.  However, manual merges make sure that changes to the code are done in ways that are logically consistent and follows design exactly.  I think that there could be ways that bugs could creep in if you only do auto merges
 
 

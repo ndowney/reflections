@@ -16,7 +16,7 @@ If I were to add changes to a project that were not yet fully functional, i woul
 
 -How do the diagrams help you visualize the branch structure?
 
-By showing directly which commits are related to each other and which are not.
+By showing directly which commits are related to each other and which are not.  It can also tell me which branches have yet to be merged easily.
 
 -What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 

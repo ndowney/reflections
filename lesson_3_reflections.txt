@@ -18,6 +18,9 @@ I can make sure that any changes I have made are consistent with those on the re
 
 It would be easier to share changes with my collaborators, and also to get group consensus on changes using github, but one thing that might be harder is getting all the users to use the tools properly, especially github.  With git and a single remote repository, it might be ok.  Also there is a bit to know before using git/github, which would make it hard to work with people unfamialliar with them
 
+-When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+I think that changes that apply to and will benefit all should be made in master---bug fixes, for example.  However, i think that experimental features, or new ideas that are significantly different from the main version of the code should remain separate in branches until they have been developed to the point where everyone can use them and to the point where they do not conflict with what others are doing on the project.
 
 
 

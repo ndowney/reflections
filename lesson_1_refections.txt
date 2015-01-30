@@ -1,6 +1,6 @@
 -How did viewing a diff between two versions of a file help you see the bug that was introduced?
 
-Having much od the tet that was idential betwee the files be removed allowed me to more easily spot the difference between files.  Also having content displayed from both files simultaneously on the same terminal was a big help. 
+Having much of the text that was idential between the files be removed allowed me to more easily spot the difference between files.  Also having content displayed from both files simultaneously on the same terminal was a big help. 
 
 -How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
 
@@ -24,6 +24,6 @@ Because I know that it will always be possible to return to a working state by c
 
 -Now that you have your workspace set up, what do you want to try using Git for?
 
-I want to use it to do version control ona small software project that I am making.
+I want to use it to do version control on a small software project that I am making.
 
 

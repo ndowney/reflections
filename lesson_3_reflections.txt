@@ -14,6 +14,10 @@ Forks are new repositories created from other ones on github.  A clone is a copy
 
 I can make sure that any changes I have made are consistent with those on the remote by merging my current branch with the local copy of the remote branch before pushing my changes to the remote.
 
+-How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+It would be easier to share changes with my collaborators, and also to get group consensus on changes using github, but one thing that might be harder is getting all the users to use the tools properly, especially github.  With git and a single remote repository, it might be ok.  Also there is a bit to know before using git/github, which would make it hard to work with people unfamialliar with them
+
 
 
 
